@@ -1,0 +1,67 @@
+[
+
+	{
+		"Model" : "Audi A8 ",
+		"Hakkinda" : "<b>Audi A8</b><br>Audi A8, Audi firmasının ürettiği üst sınıf bir otomobil modelidir. 2002 ikinci nesli piyasaya sunulmuştur. 2005'te makyajlanan araç 2009 yılının sonunda tamamen yenilenerek 3. nesline kavuşmuştur. Ardından 2016 yılında 4. Nesline kavuşmuştur.&nbsp;</br>",
+		"KucukResimURL" : "https://raw.githubusercontent.com/ilkhantetik/H5200035_ilkhan_adnan_tetik_final_araba_modelleri/main/araba%20resimleri/a8%20mini.png",
+		"BuyukResimURL" : "https://raw.githubusercontent.com/ilkhantetik/H5200035_ilkhan_adnan_tetik_final_araba_modelleri/main/araba%20resimleri/a8.png",
+		"MotorGucu" : "276 - 300 HP",
+		"MotorHacmi" : "2501 - 3000 cm3"
+	},
+	
+	{
+		"Model" : "Audi R8",
+		"Hakkinda" : "<b>Audi R8</b><br>Audi R8, Alman otomobil üreticisi Audi tarafından üretilen ortadan motorlu spor otomobil. Audi 2005 yılında başarılı yarış modeli Audi R8'in adını taşıyan bir modelin piyasaya sunulacağını açıklamış, 2003 Cenova Otomobil Fuarı'nda sergilediği Audi Le Mans Quattro konsept modelinden geliştirilen R8'i 2006'da satışa sunmuştur.&nbsp;</br>",
+		"KucukResimURL" : "https://raw.githubusercontent.com/ilkhantetik/H5200035_ilkhan_adnan_tetik_final_araba_modelleri/main/araba%20resimleri/r8%20mini.png",
+		"BuyukResimURL" : "https://raw.githubusercontent.com/ilkhantetik/H5200035_ilkhan_adnan_tetik_final_araba_modelleri/main/araba%20resimleri/r8.png",
+		"MotorGucu" : "601 HP ve üzeri",
+		"MotorHacmi" : "5001 - 5500 cm3"
+	},
+	
+	{
+		"Model" : "Audi RS6",
+		"Hakkinda" : "<b>Audi RS6</b><br>Audi RS6, Audi A6'nın Audi'nin yan kuruluşu Audi Sport GmbH tarafından üretilen en yüksek performanslı modelidir. RS6'nın birinci ve ikinci nesilleri beş kapılı "Avant" station wagon olarak üretildi. Üçüncü nesli ise yalnızca Avant olarak sunulmaktadır. Aracın başlıca rakipleri BMW M5 ve Mercedes-Benz E65 AMG'dir.&nbsp;</br>",
+		"KucukResimURL" : "https://raw.githubusercontent.com/ilkhantetik/H5200035_ilkhan_adnan_tetik_final_araba_modelleri/main/araba%20resimleri/rs6%20mini.png",
+		"BuyukResimURL" : "https://raw.githubusercontent.com/ilkhantetik/H5200035_ilkhan_adnan_tetik_final_araba_modelleri/main/araba%20resimleri/rs6.png",
+		"MotorGucu" : "600 hp",
+		"MotorHacmi" : " 3996 cc"
+	},
+	
+	{
+		"Model" : "Audi S8",
+		"Hakkinda" : "<b>Audi S8</b><br>Audi S8 , Alman otomobil üreticisi Audi AG tarafından üretilen ve Audi Sport GmbH tarafından Neckarsulm fabrikasında üretilen Audi S modellerinin tam boyutlu lüks bir otomobilidir . S8, Audi A8'in mekanik olarak yükseltilmiş, yüksek performanslı versiyonudur, standart olarak Audi'nin quattro dört tekerlekten çekiş sistemi ile donatılmıştır ve ilk üç nesil için yalnızca kısa bir dingil mesafesi ile sunulmuştu ve uzun bir dingil mesafesi ile birleştirilmiştir.&nbsp;</br>",
+		"KucukResimURL" : "https://raw.githubusercontent.com/ilkhantetik/H5200035_ilkhan_adnan_tetik_final_araba_modelleri/main/araba%20resimleri/s8%20mini.png",
+		"BuyukResimURL" : "https://raw.githubusercontent.com/ilkhantetik/H5200035_ilkhan_adnan_tetik_final_araba_modelleri/main/araba%20resimleri/s8.png",
+		"MotorGucu" : "551 - 575 HP",
+		"MotorHacmi" : "3501 - 4000 cm3"
+	},
+	
+	{
+		"Model" : "Audi TT",
+		"Hakkinda" : "<b>Audi TT</b><br>Audi TT, ilk defa 1995 yılında Frankfurt Otomobil Fuarı’nda tanıtılan Audi modeli. Audi TT, 1998 yılında seri üretim versiyonu olarak tanıtıldı. 2007'de ise 2.nesli satışa sunulmuştur. Güncel modelinde TT ve TTS'de 2 litre turbolu sıralı-4 benzinli, TTRS modelinde 2.5 litre 400 beygir turbolu 5 silindir motor kullanılmaktadır.&nbsp;</br>",
+		"KucukResimURL" : "https://raw.githubusercontent.com/ilkhantetik/H5200035_ilkhan_adnan_tetik_final_araba_modelleri/main/araba%20resimleri/audi%20tt%20mini.png",
+		"BuyukResimURL" : "https://raw.githubusercontent.com/ilkhantetik/H5200035_ilkhan_adnan_tetik_final_araba_modelleri/main/araba%20resimleri/audi%20tt.png",
+		"MotorGucu" : "376 - 400 HP",
+		"MotorHacmi" : "2001 - 2500 cm3"
+	},
+	
+	{
+		"Model" : "Audi Q8",
+		"Hakkinda" : "<b>Audi Q8</b><br>Audi Q8, Audi tarafından 2018 yılından bu yana üretilen bir üst orta sınıf lüks crossover SUV modelidir. Araç, ilk olarak 2017 Kuzey Amerika Uluslararası Otomobil Fuarı'nda tanıtılmış olup başlıca rakipleri BMW X6 ve Mercedes-Benz GLE Coupe'dir.&nbsp;</br>",
+		"KucukResimURL" : "https://raw.githubusercontent.com/ilkhantetik/H5200035_ilkhan_adnan_tetik_final_araba_modelleri/main/araba%20resimleri/q8%20mini.png",
+		"BuyukResimURL" : "https://raw.githubusercontent.com/ilkhantetik/H5200035_ilkhan_adnan_tetik_final_araba_modelleri/main/araba%20resimleri/q8.png",
+		"MotorGucu" : "286 hp",
+		"MotorHacmi" : "2967 cc"
+	},
+	
+	{
+		"Model" : "Audi E-Tron",
+		"Hakkinda" : "<b>Audi E-Tron</b><br>Audi e-tron , Audi tarafından 2019'dan beri üretilen, akülü, elektrikli , orta büyüklükte bir lüks crossover'dır. E-tron, 2015 Frankfurt Otomobil Fuarı'nda bir konsept otomobil olarak tanıtıldı . Nihai üretim versiyonu 17 Eylül 2018'de San Francisco'da ortaya çıktı, 2018 Paris Otomobil Fuarı'nda halka tanıtıldı ve ilk olarak Mayıs 2019'da teslim edildi. Bu, şirketin ilk akülü elektrikli seri üretim arabasıdır.&nbsp;</br>",
+		"KucukResimURL" : "https://raw.githubusercontent.com/ilkhantetik/H5200035_ilkhan_adnan_tetik_final_araba_modelleri/main/araba%20resimleri/e%20tron%20mini.png",
+		"BuyukResimURL" : "https://raw.githubusercontent.com/ilkhantetik/H5200035_ilkhan_adnan_tetik_final_araba_modelleri/main/araba%20resimleri/e%20tron.png",
+		"MotorGucu" : "601 HP ve üzeri",
+		"MotorHacmi" : "300 kW"
+	}
+	
+
+]
